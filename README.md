@@ -1,7 +1,7 @@
 # Pigeon-and-Rat-Frienship
 
 In this Project we are telling the same old child short story of Pegion and rat but graphically. The animation
-of the pegion and the Rat friendhsip story being developed using OpenGL in c.
+of the pegion and the Rat friendship story being developed using OpenGL in c.
 With the use of different functionality like making polygons, using various functions of mouse and creation of
 menu, the whole story is plotted in the project. Though this simple but more cleaner, elegant and creative
 project for computer graphics students.This C/C++ program on the pegion and the Rat friendhsip story is one of
